@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "DALL_E_2024-05-02_11.49.38_-_A_high-definition__detailed_illustration_representing_the_traditional_Chinese_element_of_Metal_in_a_perfectly_circular__minimalistic_style._The_design-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

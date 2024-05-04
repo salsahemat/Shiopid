@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL_E_2024-04-28_14.35.05_-_Create_an_app_icon_for_an_iOS_application__inspired_by_the_UI_elements_from_the_uploaded_image._The_icon_should_feature_a_central_heart_shape_with_int-removebg-preview (1).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
